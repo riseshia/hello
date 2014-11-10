@@ -1,5 +1,7 @@
 require "hello/version"
 
 module Hello
-  # Your code goes here...
+  def self.hello_tag(name)
+    "Hello, #{name}!"
+  end
 end
