@@ -1,6 +1,6 @@
 # Hello
 
-TODO: Write a gem description
+Make a greeting with name.
 
 ## Installation
 
@@ -18,7 +18,7 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+This gem may be helpful When you present that how to make your own gem.
 
 ## Contributing
 
