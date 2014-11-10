@@ -1,7 +1,7 @@
 require "hello/version"
 
 module Hello
-  def self.hello_tag(name)
-    "Hello, #{name}!"
+  def self.inEvening(name)
+    "Good Evening, #{name}!"
   end
 end

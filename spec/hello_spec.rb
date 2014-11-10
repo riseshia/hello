@@ -1,9 +1,9 @@
 require 'hello'
 
 describe Hello do
-  describe '#hello_tag' do
-    it 'say hello to user' do
-      expect("Hello, RoR Lab!").to eq Hello.hello_tag("RoR Lab")
+  describe '#inEvening' do
+    it 'say good evening to user' do
+      expect("Good Evening, RoR Lab!").to eq Hello.inEvening("RoR Lab")
     end
   end
 end
